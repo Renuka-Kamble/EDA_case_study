@@ -57,7 +57,7 @@ This study aims to:
 ## 🛠 Technologies Used  
 ✔ **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
 ✔ **Jupyter Notebook** for interactive analysis  
-✔ **Data Visualization** tools for graphical insights  
+✔ **Data Visualization** tools for graphical insights  .
 
 ---
 
